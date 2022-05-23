@@ -1,5 +1,3 @@
-undefined
-
 e = 0
 f = 0
 n = 0
